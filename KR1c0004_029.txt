@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩注疏
-#+DATE: 2015-09-23 09:36:26
-#+PROPERTY: JUAN 29
+#+DATE: 2015-08-24 22:04:14.865345
+#+PROPERTY: ID KR1c0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十九
 <pb:KR1c0004_WYG_029-1a>¶
 欽定四庫全書¶
 　毛詩注疏卷二十九¶
@@ -866,6 +868,7 @@
 　¶
 　¶
 　毛詩注疏卷二十九¶
+#+PROPERTY: JUAN 卷二十九考證
 <pb:KR1c0004_WYG_029-49a>¶
 　毛詩注疏卷二十九考證¶
 魯頌駉章有驈有皇○皇說文作騜¶
@@ -884,4 +887,3 @@
 　¶
 　¶
 　毛詩注疏卷二十九考證¶
-

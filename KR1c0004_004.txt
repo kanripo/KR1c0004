@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩注疏
-#+DATE: 2015-09-23 09:36:26
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:04:14.147810
+#+PROPERTY: ID KR1c0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷四
 <pb:KR1c0004_WYG_004-1a>¶
 欽定四庫全書¶
 　毛詩注疏卷四¶
@@ -758,6 +760,7 @@
 　¶
 　¶
 　毛詩注疏卷四¶
+#+PROPERTY: JUAN 卷四考證
 <pb:KR1c0004_WYG_004-43a>¶
 　毛詩注疏卷四考證¶
 鄘風柏舟章髧彼兩髦疏仍云兩髦者追本父母在之¶
@@ -794,4 +797,3 @@
 　地即商故都則景山固是山名曰大山非也¶
 　¶
 　毛詩注疏卷四考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩注疏
-#+DATE: 2015-09-23 09:36:26
-#+PROPERTY: JUAN 22
+#+DATE: 2015-08-24 22:04:14.616550
+#+PROPERTY: ID KR1c0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十二
 <pb:KR1c0004_WYG_022-1a>¶
 欽定四庫全書¶
 　毛詩注疏卷二十二¶
@@ -1334,6 +1336,7 @@
 　¶
 　¶
 　毛詩注疏卷二十二¶
+#+PROPERTY: JUAN 卷二十二考證
 <pb:KR1c0004_WYG_022-75a>¶
 　毛詩注疏卷二十二考證¶
 采菽章觱沸檻泉○檻說文作濫¶
@@ -1370,4 +1373,3 @@
 　¶
 　¶
 　毛詩注疏卷二十二考證¶
-

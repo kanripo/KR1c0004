@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩注疏
-#+DATE: 2015-09-23 09:36:26
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:04:14.191796
+#+PROPERTY: ID KR1c0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1c0004_WYG_006-1a>¶
 欽定四庫全書¶
 　毛詩注疏卷六¶
@@ -488,6 +490,7 @@
 　¶
 　¶
 　毛詩注疏卷六¶
+#+PROPERTY: JUAN 卷六考證
 <pb:KR1c0004_WYG_006-28a>¶
 　毛詩注疏卷六考證¶
 君子陽陽序君子遭亂相招為禄仕○(臣敏中/)按此詩¶
@@ -524,4 +527,3 @@
 　¶
 　¶
 　毛詩注疏卷六考證¶
-

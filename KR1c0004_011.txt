@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩注疏
-#+DATE: 2015-09-23 09:36:26
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:04:14.313531
+#+PROPERTY: ID KR1c0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1c0004_WYG_011-1a>¶
 欽定四庫全書¶
 　毛詩注疏卷十一¶
@@ -597,6 +599,7 @@
 　秦國十篇二十七章百八十一句¶
 　¶
 　毛詩注疏卷十一¶
+#+PROPERTY: JUAN 卷十一考證
 <pb:KR1c0004_WYG_011-34a>¶
 　毛詩注疏卷十一考證¶
 秦風晨風章隰有樹檖○檖説文作檖¶
@@ -615,4 +618,3 @@
 　¶
 　¶
 　毛詩注疏卷十一考證¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩注疏
-#+DATE: 2015-09-23 09:36:26
-#+PROPERTY: JUAN 28
+#+DATE: 2015-08-24 22:04:14.834460
+#+PROPERTY: ID KR1c0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十八
 <pb:KR1c0004_WYG_028-1a>¶
 欽定四庫全書¶
 　毛詩注疏卷二十八¶
@@ -758,6 +760,7 @@
 　閔予小子之什十一篇十一章百三十七句¶
 　¶
 　毛詩注疏卷二十八¶
+#+PROPERTY: JUAN 卷二十八考證
 <pb:KR1c0004_WYG_028-43a>¶
 　毛詩注疏卷二十八考證¶
 閔予小子章陟降在庭○庭漢書作廷¶
@@ -794,4 +797,3 @@
 　¶
 　¶
 　毛詩注疏卷二十八考證¶
-

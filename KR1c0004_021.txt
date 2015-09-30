@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩注疏
-#+DATE: 2015-09-23 09:36:26
-#+PROPERTY: JUAN 21
+#+DATE: 2015-08-24 22:04:14.587983
+#+PROPERTY: ID KR1c0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十一
 <pb:KR1c0004_WYG_021-1a>¶
 欽定四庫全書¶
 　毛詩注疏卷二十一¶
@@ -1370,6 +1372,7 @@
 　¶
 　¶
 　毛詩注疏卷二十一¶
+#+PROPERTY: JUAN 卷二十一考證
 <pb:KR1c0004_WYG_021-77a>¶
 　毛詩注疏卷二十一考證¶
 倬彼甫田章傳倬明貎○(臣敏中/)按説文倬明也大也¶
@@ -1406,4 +1409,3 @@
 　¶
 　¶
 　毛詩注疏卷二十一考證¶
-

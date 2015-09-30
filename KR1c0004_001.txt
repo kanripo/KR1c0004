@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩注疏
-#+DATE: 2015-09-23 09:36:26
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:04:14.066422
+#+PROPERTY: ID KR1c0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷一
 <pb:KR1c0004_WYG_001-1a>¶
 欽定四庫全書卷¶
 　毛詩注疏卷一¶
@@ -1280,6 +1282,7 @@
 　¶
 　¶
 　毛詩注疏卷一¶
+#+PROPERTY: JUAN 卷一考證
 <pb:KR1c0004_WYG_001-72a>¶
 　毛詩注疏卷一考證¶
 周南序先王之所以教箋先王斥大王王季○蜀本石¶
@@ -1370,4 +1373,3 @@
 　¶
 　¶
 　毛詩注疏卷一考證¶
-

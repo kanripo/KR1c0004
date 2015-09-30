@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩注疏
-#+DATE: 2015-09-23 09:36:26
-#+PROPERTY: JUAN 31
+#+DATE: 2015-08-24 22:04:14.915534
+#+PROPERTY: ID KR1c0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN [考證跋語]
 <pb:KR1c0004_WYG_031-1a>¶
 　　原任刑部侍郎(臣/)勵宗萬謹言昔孔子刪詩以授¶
 　　子夏而小序傳焉漢世詩有四家齊魯韓先立學¶
@@ -24,4 +26,3 @@
 　　也(臣/)等奉¶
 勅校刋謹採諸經史先儒論說中有可疏通證明者用¶
 　　以參訂其同異而各附卷末云(臣/)謹識¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 毛詩注疏
-#+DATE: 2015-09-23 09:36:26
-#+PROPERTY: JUAN 18
+#+DATE: 2015-08-24 22:04:14.493982
+#+PROPERTY: ID KR1c0004
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十八
 <pb:KR1c0004_WYG_018-1a>¶
 欽定四庫全書¶
 　毛詩注疏卷十八¶
@@ -776,6 +778,7 @@
 　¶
 　¶
 　毛詩注疏卷十八¶
+#+PROPERTY: JUAN 卷十八考證
 <pb:KR1c0004_WYG_018-44a>¶
 　毛詩注疏卷十八考證¶
 庭燎章鸞聲噦噦○噦噦説文作鉞鉞¶
@@ -794,4 +797,3 @@
 　¶
 　¶
 　毛詩注疏卷十八考證¶
-
